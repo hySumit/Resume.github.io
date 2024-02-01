@@ -1,5 +1,4 @@
 const slides = document.querySelectorAll(".slides")
-// console.log(slides)
 var count = 0;
 
 slides.forEach ((slide,ind)=>{
